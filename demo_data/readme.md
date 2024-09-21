@@ -4,6 +4,7 @@
 
 - When you do your own data analysis, arrange the data in this form
 
+```text
 demo_data
 ├── At_reference 
 │   ├── araport11.distance_to_downstream_gene.bed
@@ -37,6 +38,7 @@ demo_data
 ├── wt_rep1_elongation.bam
 ├── wt_rep1_elongation.bam.bai
 └── ... (Other sample elongation bam)
+```
 
 ## 2.The demo data download connection is as follows:
 - The results may be evaluated based on the `pickle file` in script folder. 
