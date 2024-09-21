@@ -40,6 +40,6 @@ demo_data
 └── ... (Other sample elongation bam)
 ```
 
-## 2.The demo data download connection is as follows:
+## 2.The demo data storage as `pickle`:
 - The results may be evaluated based on the `pickle file` in script folder. 
 - Additionally, an analysis of the specific elements retained in the pickle can provide insight into the script's functionality.
