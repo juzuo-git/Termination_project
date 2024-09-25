@@ -20,6 +20,9 @@ Python 3.8.18 and above
 - FLEPSeq2 enviroment is required
   https://github.com/ZhaiLab-SUSTech/flep_seq2_polya_analysis
 
+- Termination_landscape enviroment is required
+  https://github.com/ZhaiLab-SUSTech/Termination_landscape
+
 ## 1 Nanopore bascalling and obtain the treanscript termination intermediates
 
 ### 1.1 Basecalling
